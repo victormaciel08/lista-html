@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .tab{
+        border: 1px solid black;
+        width: 350px;
+    }
+</style>
+<body>
+    <div class="tab">
+        <ol>
+            <li>Titanic</li>
+            <li>Meu primeiro amor</li>
+            <li>Uma linda mulher</li>      
+        </ol>
+
+        <ol start="10">
+            <li>Exteminador do futuro II</li>
+            <li>De volta para o futuro I, II, III</li>
+            <li>Indiana Jones</li>      
+        </ol>
+        
+        <ol start="20">
+            <li>Sexta-Feira 13</li>
+            <li>A hora do Pesadelo</li>     
+        </ol>
+
+    </div>
+</body>
+</html>

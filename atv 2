@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+   div{
+    display: flex;
+
+   }
+</style>
+<body>
+    <div>
+    <img src="https://th.bing.com/th/id/OIF.u2ZlVQukND8kKBCEk3Lnvw?w=259&h=180&c=7&r=0&o=5&pid=1.7" alt="">
+    <p>VASCO DA GAMA, Maior De Todos!!</p>
+    
+    <img src="https://th.bing.com/th/id/OIF.u2ZlVQukND8kKBCEk3Lnvw?w=259&h=180&c=7&r=0&o=5&pid=1.7" alt="">
+    </div>
+</body>
+</html>
